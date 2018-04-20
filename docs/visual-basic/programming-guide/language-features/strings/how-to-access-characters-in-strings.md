@@ -36,3 +36,6 @@ This example demonstrates how to use the <xref:System.String.Chars%2A> property 
  [How to: Convert a String to an Array of Characters](../../../../visual-basic/programming-guide/language-features/strings/how-to-convert-a-string-to-an-array-of-characters.md)  
  [Converting Between Strings and Other Data Types in Visual Basic](../../../../visual-basic/programming-guide/language-features/strings/converting-between-strings-and-other-data-types.md)  
  [Strings](../../../../visual-basic/programming-guide/language-features/strings/index.md)
+
+## How to Change them directly
+Watch this space for more details.
